@@ -1,0 +1,15 @@
+C:\repos\C#Projects\LeetCode\StepsToZero\bin\Debug\net6.0\StepsToZero.exe
+C:\repos\C#Projects\LeetCode\StepsToZero\bin\Debug\net6.0\StepsToZero.deps.json
+C:\repos\C#Projects\LeetCode\StepsToZero\bin\Debug\net6.0\StepsToZero.runtimeconfig.json
+C:\repos\C#Projects\LeetCode\StepsToZero\bin\Debug\net6.0\StepsToZero.dll
+C:\repos\C#Projects\LeetCode\StepsToZero\bin\Debug\net6.0\StepsToZero.pdb
+C:\repos\C#Projects\LeetCode\StepsToZero\obj\Debug\net6.0\StepsToZero.csproj.AssemblyReference.cache
+C:\repos\C#Projects\LeetCode\StepsToZero\obj\Debug\net6.0\StepsToZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#Projects\LeetCode\StepsToZero\obj\Debug\net6.0\StepsToZero.AssemblyInfoInputs.cache
+C:\repos\C#Projects\LeetCode\StepsToZero\obj\Debug\net6.0\StepsToZero.AssemblyInfo.cs
+C:\repos\C#Projects\LeetCode\StepsToZero\obj\Debug\net6.0\StepsToZero.csproj.CoreCompileInputs.cache
+C:\repos\C#Projects\LeetCode\StepsToZero\obj\Debug\net6.0\StepsToZero.dll
+C:\repos\C#Projects\LeetCode\StepsToZero\obj\Debug\net6.0\refint\StepsToZero.dll
+C:\repos\C#Projects\LeetCode\StepsToZero\obj\Debug\net6.0\StepsToZero.pdb
+C:\repos\C#Projects\LeetCode\StepsToZero\obj\Debug\net6.0\StepsToZero.genruntimeconfig.cache
+C:\repos\C#Projects\LeetCode\StepsToZero\obj\Debug\net6.0\ref\StepsToZero.dll
